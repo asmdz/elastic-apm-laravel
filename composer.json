@@ -59,7 +59,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/asmdz/elastic-apm-php-agent"
+            "url": "git@github.com:asmdz/elastic-apm-php-agent.git"
         }
     ]
 }
